@@ -9,6 +9,7 @@ Creating a check list
 - [x] this is a checked box
 - <del> [x] this is a crossed out item that looks odd </del>
 - [x] <del> this is a crossed out item </del>
+
 ---
 
 # To do list
