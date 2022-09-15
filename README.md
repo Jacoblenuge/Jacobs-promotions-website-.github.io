@@ -15,26 +15,26 @@ Creating a check list
 ### To do list
 - [x] <del> Create a to do list [x] </del>
 - [x] <del> Add more items from the paper </del>
-## - [ ] Talk about game play
+## - Talk about game play
  - [ ] Eays to learn hard to master
 - [ ] Non repetative game loop
 - [ ] IN depth/comprehensive
-## - [ ] Devs
+## -  Devs
  - [ ] active/ atentive
 - [ ] Premotes mod Development
-## - [ ] Ui
+## - Ui
  - [ ] User friendly
  - [ ] self exsplanitory
 - [ ] thematic
-## - [ ] Title Banner
+## - Title Banner
  - [ ] Bar with options from abov and other catagorys
 - [ ] separate pages per topic
 - [ ] links to devs main website and hoi4 wiki
-## - [ ] Backround
+## -  Backround
  - [ ] Art/sceenshots of the game
 - [ ] reviews and quotes about the game
 ## - [ ] Main content
  - [ ] articles and vlogs about the game
  - [ ] articles about sub categories
- ## - [ ] Authors page
+ ## -  Authors page
 ---
