@@ -5,16 +5,16 @@ Websites project
 - None yet
 
 Creating a check list
-- [ ] this is an example checkbox
-- [x] this is a checked box
+- [x] <del> this is an example checkbox </del>
+- [x] <del> this is a checked box </del>
 - <del> [x] this is a crossed out item that looks odd </del>
 - [x] <del> this is a crossed out item </del>
-- topic is Hoi4
+- ## [ ]topic is Hoi4
 ---
 
 ### To do list
 - [x] <del> Create a to do list [x] </del>
-- [x] Add more items from the paper
+- [x] <del> Add more items from the paper </del>
 ## - [ ] Talk about game play
  - [ ] Eays to learn hard to master
 - [ ] Non repetative game loop
@@ -35,4 +35,6 @@ Creating a check list
 - [ ] reviews and quotes about the game
 ## - [ ] Main content
  - [ ] articles and vlogs about the game
+ - [ ] articles about sub categories
+ ## - [ ] Authors page
 ---
